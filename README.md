@@ -52,7 +52,7 @@ Enter the path of the first file to scan:
 Enter the path of the second file to scan:
 /path/to/file2.txt
 
-### Floder-wise Comparison
+### Folder-wise Comparison
 Enter 3 to check for plagiarism in all files in folder
 
 Enter the percentage of plagiarism allowed
