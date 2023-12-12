@@ -30,7 +30,7 @@ This Python script provides a simple plagiarism checker based on the Levenshtein
 
 ## Example Usage:
 
-### Folder Comparison
+### Folder Comparison:
 Enter 1 for comparing folder with masterfile
 
 Enter the percentage of plagiarism allowed
@@ -41,7 +41,7 @@ Enter the path of the folder to scan:
 Enter the masterfile path (not in the same folder):
 /path/to/masterfile.txt
 
-### Two Files Comparison
+### Two Files Comparison:
 Enter 2 to check for plagiarism in two files
 
 Enter the percentage of plagiarism allowed
@@ -52,7 +52,7 @@ Enter the path of the first file to scan:
 Enter the path of the second file to scan:
 /path/to/file2.txt
 
-### Folder-wise Comparison
+### Folder-wise Comparison:
 Enter 3 to check for plagiarism in all files in folder
 
 Enter the percentage of plagiarism allowed
